@@ -1,1 +1,3 @@
-# I.A-C.D---Grupo-02---2-Per-odo---Faculdade-Donaduzzi
+# Repositório Grupo 2
+
+**Repositório dedicado as análises, atividades e estudos do grupo 2**
