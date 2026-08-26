@@ -1,0 +1,30 @@
+{
+  "layer": "bronze",
+  "source_url": "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv",
+  "source_hash": "4a437fde05fe5264e1701a7387ac6fb75393772ba38bb2c9c566405af5af4bd7",
+  "ingestion_id": "4a437fde05fe",
+  "n_linhas": 891,
+  "n_colunas_originais": 12,
+  "colunas_originais": [
+    "PassengerId",
+    "Survived",
+    "Pclass",
+    "Name",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Ticket",
+    "Fare",
+    "Cabin",
+    "Embarked"
+  ],
+  "colunas_controle": [
+    "_row_hash",
+    "_source_hash",
+    "_source_url",
+    "_layer",
+    "_ingestion_id"
+  ],
+  "ingested_at": "2026-08-26T00:47:03+00:00"
+}
