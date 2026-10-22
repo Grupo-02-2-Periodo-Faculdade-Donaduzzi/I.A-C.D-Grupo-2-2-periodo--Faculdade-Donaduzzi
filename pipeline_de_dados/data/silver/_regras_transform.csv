@@ -1,0 +1,9 @@
+regra,acao,afetados_isolado,removidos_em_sequencia,soma_total_removida
+data impossível (antes do período),removida,15,15,352.31
+total_amount negativo,removida,35500,35500,-893347.54
+total_amount igual a zero,removida,413,413,0.0
+tarifa negativa,removida,2064,2064,5260.95
+distância negativa,removida,0,0,0.0
+total_amount acima do limite,removida,7,7,21342.8
+distância igual a zero,mantida,56649,0,0.0
+escopo: embarque fora de jan/2024 (depois do período),removida,3,3,90.47
