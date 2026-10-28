@@ -1,0 +1,40 @@
+2026-10-27 23:22:58,751 | INFO | Pipeline começou | execução 2026-10-27T23:22:58 | parâmetros: {"periodo_inicio": "2024-01-01", "periodo_fim": "2024-02-01", "total_max": 1000}
+2026-10-27 23:22:58,751 | INFO | Etapa extract: começou
+2026-10-27 23:22:59,662 | INFO | Etapa extract: ok | 0.91 s | 2,964,624 linhas lidas | 2,964,624 linhas escritas
+2026-10-27 23:22:59,665 | INFO | Etapa transform: começou
+2026-10-27 23:23:04,085 | INFO | Etapa transform: ok | 4.42 s | 2,964,624 linhas lidas | 2,926,603 linhas escritas
+2026-10-27 23:23:04,087 | INFO | Etapa load: começou
+2026-10-27 23:23:11,609 | INFO | Etapa load: ok | 7.52 s | 2,926,603 linhas lidas | 2,932,189 linhas escritas
+2026-10-27 23:23:11,611 | INFO | Pipeline terminou sem erro
+2026-10-27 23:23:11,849 | INFO | Pipeline começou | execução 2026-10-27T23:23:11 | parâmetros: {"periodo_inicio": "2024-01-01", "periodo_fim": "2024-02-01", "total_max": 1000}
+2026-10-27 23:23:11,849 | INFO | Etapa extract: começou
+2026-10-27 23:23:12,751 | INFO | Etapa extract: ok | 0.90 s | 2,964,624 linhas lidas | 2,964,624 linhas escritas
+2026-10-27 23:23:12,753 | INFO | Etapa transform: começou
+2026-10-27 23:23:17,174 | INFO | Etapa transform: ok | 4.42 s | 2,964,624 linhas lidas | 2,926,603 linhas escritas
+2026-10-27 23:23:17,176 | INFO | Etapa load: começou
+2026-10-27 23:23:25,069 | INFO | Etapa load: ok | 7.89 s | 2,926,603 linhas lidas | 2,932,189 linhas escritas
+2026-10-27 23:23:25,071 | INFO | Pipeline terminou sem erro
+2026-10-27 23:23:25,198 | INFO | Pipeline começou | execução 2026-10-27T23:23:25 | parâmetros: {"periodo_inicio": "2024-01-01", "periodo_fim": "2024-02-01", "total_max": 1000}
+2026-10-27 23:23:25,199 | INFO | Etapa extract: começou
+2026-10-27 23:23:26,126 | INFO | Etapa extract: ok | 0.93 s | 2,964,624 linhas lidas | 2,964,624 linhas escritas
+2026-10-27 23:23:26,128 | INFO | Etapa transform: começou
+2026-10-27 23:23:30,550 | INFO | Etapa transform: ok | 4.42 s | 2,964,624 linhas lidas | 2,926,603 linhas escritas
+2026-10-27 23:23:30,552 | INFO | Etapa load: começou
+2026-10-27 23:23:37,882 | INFO | Etapa load: ok | 7.33 s | 2,926,603 linhas lidas | 2,932,189 linhas escritas
+2026-10-27 23:23:37,884 | INFO | Pipeline terminou sem erro
+2026-10-27 23:23:38,125 | INFO | Pipeline começou | execução 2026-10-27T23:23:38 | parâmetros: {"periodo_inicio": "2024-01-01", "periodo_fim": "2024-02-01", "total_max": 1000}
+2026-10-27 23:23:38,126 | INFO | Etapa extract: começou
+2026-10-27 23:23:39,085 | INFO | Etapa extract: ok | 0.96 s | 2,964,624 linhas lidas | 2,964,624 linhas escritas
+2026-10-27 23:23:39,087 | INFO | Etapa transform: começou
+2026-10-27 23:23:43,456 | INFO | Etapa transform: ok | 4.37 s | 2,964,624 linhas lidas | 2,926,603 linhas escritas
+2026-10-27 23:23:43,458 | INFO | Etapa load: começou
+2026-10-27 23:23:50,953 | INFO | Etapa load: ok | 7.50 s | 2,926,603 linhas lidas | 2,932,189 linhas escritas
+2026-10-27 23:23:50,955 | INFO | Pipeline terminou sem erro
+2026-10-27 23:24:42,257 | INFO | Pipeline começou | execução 2026-10-27T23:24:42 | parâmetros: {"periodo_inicio": "2024-01-01", "periodo_fim": "2024-02-01", "total_max": 1000}
+2026-10-27 23:24:42,257 | INFO | Etapa extract: começou
+2026-10-27 23:24:43,165 | INFO | Etapa extract: ok | 0.91 s | 2,964,624 linhas lidas | 2,964,624 linhas escritas
+2026-10-27 23:24:43,167 | INFO | Etapa transform: começou
+2026-10-27 23:24:47,605 | INFO | Etapa transform: ok | 4.44 s | 2,964,624 linhas lidas | 2,926,603 linhas escritas
+2026-10-27 23:24:47,607 | INFO | Etapa load: começou
+2026-10-27 23:24:55,635 | INFO | Etapa load: ok | 8.03 s | 2,926,603 linhas lidas | 2,932,197 linhas escritas
+2026-10-27 23:24:55,638 | INFO | Pipeline terminou sem erro
